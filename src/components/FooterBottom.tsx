@@ -8,7 +8,7 @@ const FooterBottom: React.FC = () => {
           <div className="row justify-content-center align-items-center justify-content-center">
             <div className="col-lg-6 col-md-6 col-sm-12">
               <p className="copyright-line">
-                © 2023 Industrify. All rights reserved.
+                © 2024 Jydstek Concept Nigeria Ltd. All rights reserved.
               </p>
             </div>
             <div className="col-lg-6 col-md-6 col-sm-12">

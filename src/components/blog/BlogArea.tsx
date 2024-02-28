@@ -115,7 +115,7 @@ const BlogArea: React.FC = () => {
                 <a href="#">Civil Work (6)</a>
                 <a href="#">Construction (4)</a>
                 <a href="#">Mechanical (5)</a>
-                <a href="#">Oil & Gas Refinery (2)</a>
+                <a href="#">Oil & Gas Refinery (20)</a>
               </div>
               <Recents />
               <div className="archive">

@@ -23,10 +23,10 @@ const Footer: React.FC = () => {
                 175 24th Street, Office 3567 Melbourn, EA 265
               </p>
               <div className="company-email">
-                <a href="#">info@industrify.com</a>
+                <a href="#">info@jydstek.com.ng</a>
               </div>
               <div className="phone-number">
-                <p>+18-4675826</p>
+                <p> +234-8166599126</p>
               </div>
             </div>
             <div className="col-lg-2 offset-lg-1 col-md-6 com-sm-12">
@@ -52,8 +52,8 @@ const Footer: React.FC = () => {
                     <a href="#">
                       <i className="lab la-instagram"></i>Instagram
                     </a>
-                    <a href="#">
-                      <i className="lab la-twitter"></i>Twitter
+                    <a href="https://twitter.com/nuel_eby">
+                      <i className="lab la-twitter"></i>X
                     </a>
                     <a href="#">
                       <i className="la la-skype"></i>Skype

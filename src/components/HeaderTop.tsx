@@ -8,7 +8,7 @@ const HeaderTop: React.FC = () => {
           <div className="row">
             <div className="col-lg-6 col-md-12 col-sm-12">
               <div className="contact-info">
-                <i className="las la-envelope"></i> info@industrify.com |
+                <i className="las la-envelope"></i> info@jydstek.com.ng |
                 <i className="las la-map-marker"></i> Lekki Phase II, Lagos Island Nigeria
               </div>
             </div>
@@ -22,8 +22,8 @@ const HeaderTop: React.FC = () => {
                   <a href="">
                     <i className="lab la-instagram"></i>
                   </a>
-                  <a href="">
-                    <i className="lab la-twitter"></i>
+                  <a href="https://twitter.com/nuel_eby">
+                    <i className="lab la-twitter"></i>X
                   </a>
                   <a href="">
                     <i className="la la-skype"></i>

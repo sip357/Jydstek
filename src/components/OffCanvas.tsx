@@ -33,7 +33,7 @@ const OffCanvas: React.FC<props> = ({ setShowOffcanvas, showOffcanvas }) => {
             </div>
           </div>
           <div className="contact-list mb-40">
-            <h4>Contact Info</h4>
+            <h4>Contact Information</h4>
             <p>
               <i className="las la-rocket"></i>
               <span>
@@ -45,7 +45,7 @@ const OffCanvas: React.FC<props> = ({ setShowOffcanvas, showOffcanvas }) => {
             </p>
             <p>
               <i className="las la-envelope-open"></i>
-              <span>info@industrify.com</span>
+              <span>info@industrify.ng</span>
             </p>
           </div>
         </div>
