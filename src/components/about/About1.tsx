@@ -20,19 +20,22 @@ const About1: React.FC = () => {
           >
             <div className="info-content-area">
               <div className="section-title">
-                <h6>Welcome to Industrify</h6>
-                <h2>Great Experience for Industrial Solutions</h2>
+                <h6>Welcome to JYDSTEK CONCEPT NIG LTD </h6>
+                <h2>Great Experience for vertical, horizontal and inclined transportation </h2>
               </div>
               <p className="highlight">
-                Industrify is a leading international infrastructure group. They
-                finance, develop, build and maintain innovative and efficient
-                infrastructure that underpins daily life.
+              JYDSTEK CONCEPT NIG LTD is a company incorporated under the COMPANIES AND ALLIED MATTERS ACT 2020 as a private company limited by shares on the 2nd day of August 2021. 
+              We have our offices situated in two(2) major cities in Nigeria, Abuja and Lagos. 
+              The Abuja office is located in 2, Major Gen Edi Street, Nigerian Army Housing Estate, Kurudu,  Abuja, 
+              while the Lagos office is situated at Lekki Paradise One Estate, Chevron Alternative Route, Lekki, Lagos State. 
+
+
               </p>
               <br />
               <p>
-                It provides infrastructure consultancy, facilities management,
-                property management, energy and healthcare services.The key
-                sectors served include education, health and defence.
+              Jydstek Concepts Nigeria Ltd was specifically established to meet the needs of vertical, horizontal and inclined transportation in Nigeria.
+               We are into the supply, installation, maintenance and modernization of elevators and escalators,
+               and we are the sole representative of DHALIFT ASANSOR, Turkey (a leading elevator manufacturing company in Turkey) here in Nigeria. .
                 <br />
               </p>
               <div className="about-btn mt-40">

@@ -9,20 +9,21 @@ const HeaderTop: React.FC = () => {
             <div className="col-lg-6 col-md-12 col-sm-12">
               <div className="contact-info">
                 <i className="las la-envelope"></i> info@jydstek.com.ng |
-                <i className="las la-map-marker"></i> Lekki Phase II, Lagos Island Nigeria
+                <i className="las la-map-marker"></i> 
+                Lekki Paradise One Estate, Chevron, Lagos State
               </div>
             </div>
             <div className="col-lg-6 col-md-12 col-sm-12 text-end">
               <div className="site-info">
-                Turning big ideas into great products!
+              The Peak Our Starting Point !
                 <div className="social-area">
-                  <a href="">
+                  <a href="https://www.facebook.com/profile.php?id=61553834637024&mibextid=ZbWKwL">
                     <i className="lab la-facebook-f"></i>
                   </a>
-                  <a href="">
+                  <a href="https://www.instagram.com/jydstek_concepts?igsh=d2I1dnhlNGF3dmJ6">
                     <i className="lab la-instagram"></i>
                   </a>
-                  <a href="https://twitter.com/nuel_eby">
+                  <a href="https://x.com/jydstek_concept?t=UEhtz7yjY4Rs3eSt7ZbuOg&s=08">
                     <i className="lab la-twitter"></i>X
                   </a>
                   <a href="">

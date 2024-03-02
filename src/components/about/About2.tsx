@@ -14,7 +14,7 @@ const About2: React.FC = () => {
               <div className="info-img">
                 <img src="/assets/img/about/about-1.png" alt="" />
                 <div className="founded-year">
-                  <i className="flaticon-factory">Founded in 2024</i>
+                  <i className="flaticon-factory">Founded in 2021</i>
                 </div>
               </div>
             </div>
@@ -26,33 +26,32 @@ const About2: React.FC = () => {
                 <div className="section-title">
                   <h6>About Us</h6>
                   <h2>
-                    We're leading <b>Industrial Solution</b> in Worldwide
+                    We're leading in <b>vertical, horizontal and inclined transportation </b> in Nigeria
                   </h2>
                 </div>
 
                 <p>
-                  We are build construction site lorem ipsum dolor sit amet,
-                  consectetur elit. Ea enim et, similique,minus soluta ducimus.
-                  The Most Eminent factory and Industrial Consultant service
-                  provider. Branches in USA and overseas.
+                JYDSTEK CONCEPT NIG LTD is a company incorporated under the COMPANIES AND ALLIED MATTERS ACT 2020 as a private company limited by shares on the 2nd day of August 2021. 
+              We have our offices situated in two(2) major cities in Nigeria, Abuja and Lagos. 
+              The Abuja office is located in 2, Major Gen Edi Street, Nigerian Army Housing Estate, Kurudu,  Abuja, 
+              while the Lagos office is situated at Lekki Paradise One Estate, Chevron Alternative Route, Lekki, Lagos State. 
                 </p>
                 <br />
 
                 <p>
-                  industrify is famous construction factory to build a company
-                  that can compete with large construction firms while operating
-                  with the flexibility and customer-focus of a small, family-run
-                  business.
+                We are proud to say, we are one of the fastest growing elevator companies in Nigeria on a strong foundation of integrity, reliability and multifaceted expertise. 
+                We especially supply and install top quality elevators with minimal maintenance requirements. 
+                Furthermore, we render consultation services, project designing and modernization.
                 </p>
 
                 <ul className="about-key mt-30">
                   <li>
                     <i className="las la-check-square"></i>
-                    <p>Best Industrial</p>
+                    <p>Consultation Services</p>
                   </li>
                   <li>
                     <i className="las la-check-square"></i>
-                    <p>Quality Construction</p>
+                    <p>Project Designing </p>
                   </li>
                   <li>
                     <i className="las la-check-square"></i>
@@ -73,7 +72,7 @@ const About2: React.FC = () => {
                           </div>
                           <div className="mobile-number">
                             <h5>Call Us Anytime</h5>
-                            <p>92 666 888 0000</p>
+                            <p>+234-8166599126 </p>
                           </div>
                         </div>
                       </div>

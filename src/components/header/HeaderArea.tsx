@@ -66,10 +66,10 @@ const HeaderArea: React.FC = () => {
                             </a>
                             <ul className="sub-menu">
                               <li>
-                                <Link to="/">Home Page 01</Link>
+                                <Link to="/"> Home Page 1</Link>
                               </li>
                               <li>
-                                <Link to="/index-2">Home Page 02</Link>
+                                <Link to="/index-2">2nd Home Page</Link>
                               </li>
                             </ul>
                           </li>

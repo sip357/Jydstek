@@ -9,7 +9,7 @@ const ContactSection: React.FC = () => {
             <div className="col-xl-6 col-lg-6 col-12">
               <div className="contact-page google-map">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3690.404245521138!2d91.80989606467384!3d22.338360085303748!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sdewanhat%20near%20Chattogram!5e0!3m2!1sen!2sbd!4v1677069314806!5m2!1sen!2sbd"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.5852654051664!2d3.5379098738639168!3d6.447259324046968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103bf7876d8df69f%3A0xef23838e752d9ac3!2sLekki%20Paradise%201%20estate!5e0!3m2!1sen!2sng!4v1709327768884!5m2!1sen!2sng"
                   width="600"
                   height="600"
                   style={{ border: 0 }}

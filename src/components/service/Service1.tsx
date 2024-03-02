@@ -36,10 +36,9 @@ const Service1: React.FC = () => {
             </div>
             <div className="col-xl-6">
               <p>
-                Construction is a general term meaning the art and science to
-                form objects systems organizations, and comes from Latin
-                construction and Old French construction. To construct is the
-                verb: the act of building, and the noun
+              Jydstek Concepts Nigeria Ltd was specifically established to meet the needs of vertical, horizontal and inclined transportation in Nigeria.
+               We are into the supply, installation, maintenance and modernization of elevators and escalators,
+               and we are the sole representative of DHALIFT ASANSOR, Turkey (a leading elevator manufacturing company in Turkey) here in Nigeria. .
               </p>
             </div>
             <div className="slide__navigation">

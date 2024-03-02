@@ -9,18 +9,17 @@ const Footer: React.FC = () => {
           <div className="row">
             <div className="col-lg-4 col-md-6 col-sm-12">
               <a href="/" className="logo">
-                <img src="/assets/img/logo-white.png" alt="industrify-logo" />
+                <img src="/assets/img/logo-white.png" alt="jydstek" />
               </a>
               <p>
-                Consectetur adipisicing elit. <br />
-                maxime dolor voluptatibus natus eligendi
+              The Peak Our Starting Point !
               </p>
             </div>
             <div className="col-lg-2 col-md-6">
               <h5>Office</h5>
               <p>
-                Australia- <br />
-                175 24th Street, Office 3567 Melbourn, EA 265
+                Nigeria- <br />
+                Lekki Paradise One Estate, Chevron, Lagos State
               </p>
               <div className="company-email">
                 <a href="#">info@jydstek.com.ng</a>
@@ -46,13 +45,13 @@ const Footer: React.FC = () => {
               <ul>
                 <li>
                   <div className="social-area">
-                    <a href="#">
+                    <a href="https://www.facebook.com/profile.php?id=61553834637024&mibextid=ZbWKwL">
                       <i className="lab la-facebook-f"></i>Facebook
                     </a>
-                    <a href="#">
+                    <a href="https://www.instagram.com/jydstek_concepts?igsh=d2I1dnhlNGF3dmJ6">
                       <i className="lab la-instagram"></i>Instagram
                     </a>
-                    <a href="https://twitter.com/nuel_eby">
+                    <a href="https://x.com/jydstek_concept?t=UEhtz7yjY4Rs3eSt7ZbuOg&s=08">
                       <i className="lab la-twitter"></i>X
                     </a>
                     <a href="#">
