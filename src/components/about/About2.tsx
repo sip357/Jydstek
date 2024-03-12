@@ -47,7 +47,7 @@ const About2: React.FC = () => {
                 <ul className="about-key mt-30">
                   <li>
                     <i className="las la-check-square"></i>
-                    <p>Consultation Services</p>
+                    <p>Installation</p>
                   </li>
                   <li>
                     <i className="las la-check-square"></i>
@@ -55,11 +55,19 @@ const About2: React.FC = () => {
                   </li>
                   <li>
                     <i className="las la-check-square"></i>
-                    <p>Expert Contractor</p>
+                    <p>Consultation Services</p>
                   </li>
                   <li>
                     <i className="las la-check-square"></i>
-                    <p>Affordable Cost Rate</p>
+                    <p>Supply of Elevators & Escalators</p>
+                  </li>
+                  <li>
+                    <i className="las la-check-square"></i>
+                    <p>Maintenance</p>
+                  </li>
+                  <li>
+                    <i className="las la-check-square"></i>
+                    <p>Modernization</p>
                   </li>
                 </ul>
                 <div className="about-contact">

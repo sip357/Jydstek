@@ -28,7 +28,7 @@ const OffCanvas: React.FC<props> = ({ setShowOffcanvas, showOffcanvas }) => {
             while the Lagos office is situated at Lekki Paradise One Estate, Chevron Alternative Route, Lekki, Lagos State. 
             </p>
             <div className="mt-30 mb-30">
-              <a href="contact.html" className="main-btn">
+              <a href="https://mail.google.com/mail/?view=cm&fs=1&to=info@jydstek.com.ng&su=Subject%20Here&body=Message%20Body%20Here" className="main-btn">
                 Get In Touch
               </a>
             </div>

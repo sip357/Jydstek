@@ -27,15 +27,11 @@ const Details: React.FC = () => {
         <div className="container">
           <div className="row">
             <div className="col-lg-12">
-              <h3>Industrial Solution in Central City</h3>
+              <h3>Solution to your Vertical and Horizintal Transportation</h3>
               <p>
-                Fraud and financial crimes are a form of theft/larceny that
-                occur when a person or entity takes money or property, or uses
-                them in an illicit manner, with the intent.The analysis model
-                employed in this study is multiple regression. The results
-                indicate that variable namely, pressure, opportunity,
-                rationalization, competence, and arrogance, simultaneously do
-                not affect fraudulence financial statement.
+              We are proud to say, we are one of the fastest growing elevator companies in Nigeria on a strong foundation of integrity, reliability and multifaceted expertise. 
+                We especially supply and install top quality elevators with minimal maintenance requirements. 
+                Furthermore, we render consultation services, project designing and modernization..
               </p>
               <div className="row">
                 <div className="col-lg-8">

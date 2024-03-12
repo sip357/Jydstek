@@ -18,7 +18,7 @@ const BlogArea: React.FC = () => {
                     <i className="las la-user"></i>Admin
                   </span>
                   <span>
-                    <i className="las la-calendar"></i>August 10, 2022
+                    <i className="las la-calendar"></i>August 10, 2021
                   </span>
                   <span>
                     <i className="las la-comments"></i>2 Comments
@@ -110,9 +110,9 @@ const BlogArea: React.FC = () => {
               <div className="blog-category">
                 <h5>Categories</h5>
                 <a className="active" href="#">
-                  Hotels (9)
+                  Hotels (10)
                 </a>
-                <a href="#">Civil Work (6)</a>
+                <a href="#">Schools (6)</a>
                 <a href="#">Construction (4)</a>
                 <a href="#">Mechanical (5)</a>
                 <a href="#">Oil & Gas Refinery (20)</a>

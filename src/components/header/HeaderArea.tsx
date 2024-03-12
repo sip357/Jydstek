@@ -53,7 +53,20 @@ const HeaderArea: React.FC = () => {
                         id="navbarSupportedContent"
                       >
                         <ul className="navbar-nav m-auto">
-                          <li className="nav-item">
+
+                        <li className="nav-item smooth-menu">
+                            <Link
+                              to="/"
+                              onMouseEnter={() => setActiveMenu("home")}
+                              className={`nav-link ${
+                                activeMenu === "home" ? "active" : ""
+                              }`}
+                            >
+                              Home
+                            </Link>
+                          </li>
+
+                          {/* <li className="nav-item">
                             <a
                               onMouseEnter={() => setActiveMenu("home")}
                               className={`nav-link ${
@@ -66,15 +79,15 @@ const HeaderArea: React.FC = () => {
                             </a>
                             <ul className="sub-menu">
                               <li>
-                                <Link to="/"> Home Page 1</Link>
-                              </li>
-                              <li>
-                                <Link to="/index-2">2nd Home Page</Link>
-                              </li>
-                            </ul>
-                          </li>
+                                <Link to="/"> Home Page</Link>
+                              </li> */}
+                              {/* <li>
+                                <Link to="/index-2">Home Page 2</Link>
+                              </li> */}
+                            {/* </ul> */}
+                          {/* </li> */}
 
-                          <li className="nav-item">
+                          {/* <li className="nav-item">
                             <a
                               onMouseEnter={() => setActiveMenu("pages")}
                               className={`nav-link ${
@@ -87,22 +100,22 @@ const HeaderArea: React.FC = () => {
                             </a>
                             <ul className="sub-menu">
                               <li>
-                                <Link to="/about">About</Link>
-                              </li>
-                              <li>
+                                <Link to="/about">About</Link> */}
+                              {/* </li> */}
+                              {/* <li>
                                 <Link to="/services">Services</Link>
-                              </li>
-                              <li>
+                              </li> */}
+                              {/* <li>
                                 <Link to="/team">Team</Link>
                               </li>
                               <li>
                                 <Link to="/faq">FAQs</Link>
-                              </li>
-                              <li>
+                              </li> */}
+                              {/* <li>
                                 <Link to="/pricing">Pricing</Link>
-                              </li>
-                            </ul>
-                          </li>
+                              </li> */}
+                            {/* </ul> */}
+                          {/* </li> */}
 
                           <li className="nav-item smooth-menu">
                             <Link
@@ -115,6 +128,19 @@ const HeaderArea: React.FC = () => {
                               Services
                             </Link>
                           </li>
+
+                          <li className="nav-item smooth-menu">
+                            <Link
+                              to="/about"
+                              onMouseEnter={() => setActiveMenu("about")}
+                              className={`nav-link ${
+                                activeMenu === "about" ? "active" : ""
+                              }`}
+                            >
+                              About
+                            </Link>
+                          </li>
+
 
                           <li className="nav-item">
                             <a
@@ -137,7 +163,7 @@ const HeaderArea: React.FC = () => {
                             </ul>
                           </li>
 
-                          <li className="nav-item">
+                          {/* <li className="nav-item">
                             <a
                               onMouseEnter={() => setActiveMenu("blogs")}
                               className={`nav-link ${
@@ -156,6 +182,18 @@ const HeaderArea: React.FC = () => {
                                 <Link to="/blog/b1">Blog Details</Link>
                               </li>
                             </ul>
+                          </li> */}
+
+                          <li className="nav-item smooth-menu">
+                            <Link
+                              to="/blog/b1"
+                              onMouseEnter={() => setActiveMenu("blogs")}
+                              className={`nav-link ${
+                                activeMenu === "blogs" ? "active" : ""
+                              }`}
+                            >
+                              Blogs
+                            </Link>
                           </li>
 
                           <li className="nav-item smooth-menu">
