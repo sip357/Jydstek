@@ -4,7 +4,7 @@ import Modal from "./modal/Modal";
 
 const ChooseUs: React.FC = () => {
   const [showModal, setShowModal] = useState(false);
-  const [getSrc, _] = useState("https://www.youtube.com/embed/SZEflIVnhH8");
+  const [getSrc, _] = useState("https://photos.app.goo.gl/Xhp7UPbzQMBb5X678");
   return (
     <React.Fragment>
       <div className="choose-us-area">

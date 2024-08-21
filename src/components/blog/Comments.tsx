@@ -8,12 +8,12 @@ const Comments: React.FC = () => {
         <div className="single-comments-section">
           <img src="/assets/img/client-img-2.jpg" alt="" />
           <p>
-            <b>Rasel Arnold</b>
-            <span>November 29, 2022</span>
+            <b>Bisola Happiness</b>
+            <span>March 29, 2024</span>
           </p>
           <p>
-            Though author order shouldn't matter, industry custom and practical
-            limitations say otherwise.
+          Our guests have noticed the difference since we switched to Jydstek Elevator. The smooth,
+           reliable rides and modern features have greatly enhanced our overall guest experience.
           </p>
           <p>
             <a href="#" className="reply-btn">
@@ -25,12 +25,13 @@ const Comments: React.FC = () => {
         <div className="single-comments-section">
           <img src="/assets/img/client-img-3.jpg" alt="" />
           <p>
-            <b>Emmanuel Nweke</b>
-            <span>November 29, 2023</span>
+            <b>Deborah Adio</b>
+            <span>February 25, 2024</span>
           </p>
           <p>
-            Though author order shouldn't matter, industry custom and practical
-            limitations say otherwise.
+          Jydstek Elevator has set a new standard in our building.
+          Their innovative designs and consistent performance have not only improved
+          our operations but also increased tenant satisfaction
           </p>
           <p>
             <a href="#" className="reply-btn">

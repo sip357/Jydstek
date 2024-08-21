@@ -26,9 +26,6 @@ const HeaderTop: React.FC = () => {
                   <a href="https://x.com/jydstek_concept?t=UEhtz7yjY4Rs3eSt7ZbuOg&s=08">
                     <i className="lab la-twitter"></i>X
                   </a>
-                  <a href="">
-                    <i className="la la-skype"></i>
-                  </a>
                 </div>
               </div>
             </div>

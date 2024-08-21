@@ -5,10 +5,11 @@ const Author: React.FC = () => {
     <div className="author-profile">
       <img src="/assets/img/client-img.jpg" alt="" />
       <div className="author-info">
-        <h6>Harvert Milan</h6>
+        <h6>Emmanuel Nweke</h6>
         <p>
-          While publishing our article in a journal, to claim it as our article,
-          where should be our name in the authors list, the first name
+        Jydstek Elevator is the epitome of innovation and reliability.
+        Their attention to detail and commitment to safety are unmatched.
+        Our projects have greatly benefited from their expertise and state-of-the-art solutions
         </p>
         <div className="social-icon">
           <ul>

@@ -1,14 +1,12 @@
 import { createBrowserRouter } from "react-router-dom";
 import {
   Home1,
-  Home2,
   About,
   Contact,
   Projects,
   Team,
   Services,
   ProjectDetails,
-  Blog,
   BlogDetails,
   FAQ,
   Pricing,
@@ -26,11 +24,7 @@ export const router = createBrowserRouter([
         element: <Home1 />,
         errorElement: <ErrorPage />,
       },
-      {
-        path: "/index-2",
-        element: <Home2 />,
-        errorElement: <ErrorPage />,
-      },
+      
       {
         path: "/contact",
         element: <Contact />,
@@ -71,11 +65,7 @@ export const router = createBrowserRouter([
         element: <ProjectDetails />,
         errorElement: <ErrorPage />,
       },
-      {
-        path: "/blogs",
-        element: <Blog />,
-        errorElement: <ErrorPage />,
-      },
+      
       {
         path: "/blog/:id",
         element: <BlogDetails />,

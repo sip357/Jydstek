@@ -27,11 +27,11 @@ const Details: React.FC = () => {
         <div className="container">
           <div className="row">
             <div className="col-lg-12">
-              <h3>Solution to your Vertical and Horizintal Transportation</h3>
+              <h3>Solution to your Vertical and Horizontal Transportations</h3>
               <p>
-              We are proud to say, we are one of the fastest growing elevator companies in Nigeria on a strong foundation of integrity, reliability and multifaceted expertise. 
-                We especially supply and install top quality elevators with minimal maintenance requirements. 
-                Furthermore, we render consultation services, project designing and modernization..
+              At Jydstek Elevator & Escalator Solutions, we are committed to elevating urban mobility and enhancing the functionality of buildings with our innovative vertical transportation systems.
+              Specializing in the design, installation, maintenance, and modernization of elevators and escalators,
+              we deliver state-of-the-art solutions tailored to meet the unique needs of our clients across various industries.
               </p>
               <div className="row">
                 <div className="col-lg-8">
@@ -41,14 +41,9 @@ const Details: React.FC = () => {
                   <div className="project-overview">
                     <h4>Project Overview</h4>
                     <p>
-                      Cases of fraud were found in Indonesia in 2017 involving
-                      PT Jatisari Sri Rejeki. The company is cheating by
-                      producing rice that is not suitable with standard quality
-                      stated in the packaging label. The correlation of the case
-                      against fraudulent financial statements is that there is a
-                      difference in the inventory account contained in the
-                      financial statements due to changes in the quality of
-                      products made by the company.
+                    The project is a testament to Jydstek Limited's expertise in delivering high-quality vertical transportation solutions.
+                    Through innovative design, precise engineering,
+                  and unwavering commitment to safety and sustainability, we have successfully met the client’s requirements, ensuring a reliable and efficient system that will serve the building’s occupants for years to come.
                     </p>
                   </div>
                 </div>

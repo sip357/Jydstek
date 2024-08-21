@@ -1,6 +1,8 @@
 import React from "react";
 
-const ContactSection: React.FC = () => {
+const ContactSection = () => {
+
+
   return (
     <React.Fragment>
       <div className="contact-section section-padding">
@@ -18,27 +20,29 @@ const ContactSection: React.FC = () => {
                   referrerPolicy="no-referrer-when-downgrade"
                 ></iframe>
               </div>
+              
             </div>
             <div className="col-xl-6 col-lg-6 col-12">
               <div className="contact-form dark-bg">
                 <div className="section-title">
                   <h2 className="text-white">Lets talk...</h2>
                 </div>
+
                 <form>
                   <div className="row">
-                    <div className="col-md-6">
+                    <div className="col-md-12">
                       <label>Your Name*</label>
                       <input type="text" placeholder="Your Full Name" />
                     </div>
-                    <div className="col-md-6">
+                    <div className="col-md-12">
                       <label>Email Address*</label>
                       <input type="email" placeholder="E-mail Address" />
                     </div>
                     <div className="col-12">
                       <label>Subject*</label>
-                      <input type="text" placeholder="Website" />
+                      <input placeholder="Type in your message here" />
                     </div>
-                    <div className="col-12">
+                    {/* <div className="col-12">
                       <label>Message*</label>
                       <textarea
                         name="message"
@@ -47,14 +51,15 @@ const ContactSection: React.FC = () => {
                         rows={10}
                         placeholder="Write Here"
                       ></textarea>
-                    </div>
-                    <div>
-                      <button type="submit" className="bordered-btn">
-                        Send Now
-                      </button>
+                    </div> */}
+                    <div >
+                    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=info@jydstek.com.ng&su=Subject%20Here&body=Message%20Body%20Here" className="main-btn">
+                    Send us an Email
+                        </a>
                     </div>
                   </div>
                 </form>
+
               </div>
             </div>
           </div>
@@ -65,3 +70,4 @@ const ContactSection: React.FC = () => {
 };
 
 export default ContactSection;
+

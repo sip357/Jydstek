@@ -35,7 +35,7 @@ const Footer: React.FC = () => {
                   <Link to="/about">About</Link>
                   <Link to="/services">Services</Link>
                   <Link to="/projects">Projects</Link>
-                  <Link to="/pricing">Pricing</Link>
+                  {/* <Link to="/pricing">Pricing</Link> */}
                   <Link to="/faq"> FAQ</Link>
                 </li>
               </ul>
@@ -53,9 +53,6 @@ const Footer: React.FC = () => {
                     </a>
                     <a href="https://x.com/jydstek_concept?t=UEhtz7yjY4Rs3eSt7ZbuOg&s=08">
                       <i className="lab la-twitter"></i>X
-                    </a>
-                    <a href="#">
-                      <i className="la la-skype"></i>Skype
                     </a>
                   </div>
                 </li>

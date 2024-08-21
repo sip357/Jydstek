@@ -4,10 +4,10 @@ const Recents: React.FC = () => {
   return (
     <React.Fragment>
       <div className="recent-post">
-        <h5>Recent Post</h5>
+        <h5>Recent Works</h5>
         <img src="/assets/img/blog/recent-post-bg.jpg" alt="" />
         <div className="single-recent-post">
-          <h6>Youth crime creativity with artistic activities!</h6>
+          <h6>Hotels !</h6>
           <p className="blog-date">
             <i className="las la-calendar"></i>April 10, 2023
           </p>

@@ -18,49 +18,38 @@ const BlogArea: React.FC = () => {
                     <i className="las la-user"></i>Admin
                   </span>
                   <span>
-                    <i className="las la-calendar"></i>August 10, 2021
+                    <i className="las la-calendar"></i>May 10, 2024
                   </span>
                   <span>
                     <i className="las la-comments"></i>2 Comments
                   </span>
                 </div>
                 <h3>
-                  Building Mobilization can make you future leader in world
+                Welcome to our blog! 
                 </h3>
                 <p>
-                  Encouraging kids to socialize has never been more important,
-                  but finding ways to do it safely right now can be tricky.
-                  Thankfully, you don’t have to put your child’s social life on
-                  pause. Instead, coordinate a time to do a virtual playdate on
-                  Zoom or Google Hangouts with one or a few of your child’s
-                  friends.
+                Welcome to the heart of vertical innovation! Our blog is your gateway to the fascinating world of elevator technology,
+                where we explore the intersection of engineering excellence and cutting-edge advancements. 
+                As industry leaders in elevator technology, we are committed to delivering state-of-the-art solutions that ensure safety,
+                 efficiency, and innovation in vertical transportation.
                 </p>
                 <p>
-                  Education.com has over 34,000 resources to choose from! Visit
-                  the Learning Library and use the search bar at the top of the
-                  page to find your topic. You can filter results by your
-                  learners’ grade level, subjects you’re interested in, type of
-                  resource, and more in the bars along the top and left-hand
-                  side of the page.
+                Our blog is dedicated to sharing insights, latest trends, 
+                and expert advice on everything from elevator design
+                and maintenance to cutting-edge advancements in smart technology.
                 </p>
                 <p>
-                  Look through the resources on your topic, and select the one
-                  that seems most relevant to your lesson as well as most
-                  engaging for your learners. For example, our search for plants
-                  provided over 600 resources including activities, worksheets,
-                  and lesson plans. By filtering to show first grade science
-                  resources, and sorting by relevance, we narrowed down the
-                  search until we selected the Parts of a Plant workbook.
+                Whether you're an architect, building manager, or simply passionate about engineering, 
+                join us as we explore the dynamic world of elevators
+                and strive to elevate your understanding of this essential industry.
                 </p>
-                <h5>How to create a well-rounded learning routine</h5>
+                <h5>Welcome to the heart of vertical innovation</h5>
                 <p>
-                  When children engage with the same concept in different ways,
-                  it strengthens their understanding of the topic. But as
-                  educators and caregivers, it can be difficult to find a range
-                  of high-quality content to share with your little learners.
-                  The good news is that both Education.com and IXL have
-                  extensive libraries of resources and skills that you can
-                  depend on for PK-5 and beyond.
+                Dive into stories of groundbreaking designs, smart technology integrations,
+                and the future of urban mobility. From tips on optimizing elevator performance to insights into the latest safety standards,
+                our blog is packed with valuable information for architects, building managers,
+                and technology enthusiasts alike. Join us on this exciting journey as we elevate not just buildings,
+                 but the very standards of the industry, one story at a time..
                 </p>
                 <div className="row">
                   <div className="col-lg-6">
@@ -79,16 +68,17 @@ const BlogArea: React.FC = () => {
                   </div>
                 </div>
 
-                <h5>Give An Inch, Take A Mile</h5>
+                <h5>Together, we’re not just elevating buildings</h5>
                 <p>
-                  One day, the importer called the customer service
-                  representative and said that he could not arrive at the office
-                  to surrender the bill of lading that day. Instead he would fax
-                  (yes that long ago) the front and back of the bill to get the
-                  release, and subsequently be in the office the very next day
-                  to deliver the original bill of lading as required. The
-                  carrier acted in accordance and the importer was in the office
-                  the next day to deliver the bill of lading as promised.
+                Our blog is your gateway to the fascinating world of elevator technology,
+                where we explore the intersection of engineering excellence and cutting-edge advancements. 
+                Dive into stories of groundbreaking designs, smart technology integrations,
+                and the future of urban mobility. Discover how our state-of-the-art solutions are redefining safety, efficiency,
+                and sustainability in vertical transportation. From expert tips on optimizing elevator performance and 
+                maintenance to in-depth analyses of the latest safety standards and regulatory updates, 
+                our blog is packed with valuable information for architects, building managers, 
+                and technology enthusiasts alike. Join us as we highlight the pioneers of the industry, 
+                share success stories from around the globe, and provide insights into the trends that are shaping the future of urban environments.
                 </p>
                 <hr />
                 <Author />
@@ -156,7 +146,7 @@ const BlogArea: React.FC = () => {
                     Need <br />
                     Consultancy Help
                   </h4>
-                  <p>Gatherin galso sprit moving shall flow</p>
+                  <p>Send us an email</p>
                   <button type="submit">Contact Us</button>
                 </div>
               </div>

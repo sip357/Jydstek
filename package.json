@@ -1,6 +1,5 @@
 {
   "name": "jydstek_reactjs",
-  "homepage": "http://jydstek.com.ng",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emailjs/browser": "^4.3.3",
+    "emailjs-com": "^3.2.0",
     "i": "^0.3.7",
     "npm": "^9.7.2",
     "react": "^18.2.0",
