@@ -1,0 +1,14 @@
+{
+  "details": {
+    "id": "pd1",
+    "img1": "/assets/img/project/single-project.jpg",
+    "img2": "/assets/img/project/single-project-2.jpg",
+    "img3": "/assets/img/project/single-project-3.jpg",
+    "engineer": "Jide Adio",
+    "category": "Hotel",
+    "startDate": "20th March 2022",
+    "endDate": "31 May 2023",
+    "address": "Lagos",
+    "tags": ["Elegance", "Luxury"]
+  }
+}

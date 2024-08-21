@@ -1,0 +1,26 @@
+{
+  "testimonials": [
+    {
+      "id": "t1",
+      "img": "/assets/img/testimonial/1.jpg",
+      "comment": "Jydstek Limited brought our vision to life with their cutting-edge elevator solutions. ",
+      "name": "Emmanuel  Nweke",
+      "rank": "Bussiness Man"
+    },
+    {
+      "id": "t2",
+      "img": "/assets/img/testimonial/2.jpg",
+      "comment": "We couldn’t be happier with the service provided by Jydstek Limited.",
+      "name": "John Paul",
+      "rank": "Manager Golden Top "
+    },
+    {
+      "id": "t3",
+      "img": "/assets/img/testimonial/3.jpg",
+      "comment": "The experience with Jydstek Limited has been exceptional from start to finish. ",
+      "name": "Happiness Bisi",
+      "rank": "Manager at Bish Resort"
+    }
+  
+  ]
+}

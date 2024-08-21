@@ -1,0 +1,51 @@
+{
+  "menu": [
+    {
+      "id": "m1",
+      "text": "Home",
+      "link": "/",
+      "dropdown": []
+    },
+    {
+      "id": "m2",
+      "text": "About",
+      "link": "/about",
+      "dropdown": []
+    },
+    {
+      "id": "m3",
+      "text": "Services",
+      "link": "/services",
+      "dropdown": []
+    },
+    {
+      "id": "m4",
+      "text": "Projects",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": "c1",
+          "text": "Projects",
+          "link": "/projects"
+        },
+        {
+          "id": "c2",
+          "text": "Project Details",
+          "link": "/project/p1"
+        }
+      ]
+    },
+    {
+      "id": "m5",
+      "text": "Blogs Details",
+      "link": "/blog/:id",
+      "dropdown": []
+    },
+    {
+      "id": "m6",
+      "text": "Contact Us",
+      "link": "/contact",
+      "dropdown": []
+    }
+  ]
+}

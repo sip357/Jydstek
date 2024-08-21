@@ -1,0 +1,46 @@
+{
+  "services": [
+    {
+      "id": "s1",
+      "img": "/assets/img/service/1.jpg",
+      "icon": "flaticon-production",
+      "heading": "Elevators || Escalators ",
+      "title": "Supply of fully automated Elevator | Escalators"
+    },
+    {
+      "id": "s2",
+      "img": "/assets/img/service/2.jpg",
+      "icon": "flaticon-eco-factory",
+      "heading": "Project Designing",
+      "title": "We deliver well crafted premium designs to your standard"
+    },
+    {
+      "id": "s3",
+      "img": "/assets/img/service/3.jpg",
+      "icon": "flaticon-eco-factory",
+      "heading": "Modern Technology",
+      "title": "We are into modernization of elevators &escalators"
+    },
+    {
+      "id": "s4",
+      "img": "/assets/img/service/4.jpg",
+      "icon": "flaticon-production",
+      "heading": "Installation| Maintenance",
+      "title": "We give best industry approved installation & maintennace"
+    },
+    {
+      "id": "s5",
+      "img": "/assets/img/service/5.jpg",
+      "icon": "flaticon-eco-factory",
+      "heading": "Consultation Services",
+      "title": "We provide industry best consultation services"
+    },
+    {
+      "id": "s6",
+      "img": "/assets/img/service/6.jpg",
+      "icon": "flaticon-eco-factory",
+      "heading": "Elevator Design",
+      "title": "We deliver Best and latest Elevator and Escalator Designs "
+    }
+  ]
+}

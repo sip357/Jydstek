@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "id": "p1",
+      "title": "Lift Interior"
+    },
+    {
+      "id": "p2",
+      "title": "Lift Installation"
+    },
+    {
+      "id": "p3",
+      "title": "Complete Installation"
+    },
+    {
+      "id": "p4",
+      "title": "Elevator Installation"
+    },
+    {
+      "id": "p5",
+      "title": "Lift Interior"
+    },
+    {
+      "id": "p6",
+      "title": "Lift Installation"
+    },
+    {
+      "id": "p7",
+      "title": "Complete Installation"
+    },
+    {
+      "id": "p8",
+      "title": "Elevator Installation"
+    }
+  ]
+}

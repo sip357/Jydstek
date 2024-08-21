@@ -1,0 +1,22 @@
+{
+  "promo": [
+    {
+      "id": "p1",
+      "heading": "Consultation Services",
+      "title": "Supply of Modern elevators and escalators",
+      "icon": "flaticon-factory"
+    },
+    {
+      "id": "p2",
+      "heading": "Installation | Maintenance ",
+      "title": "Installation of Mordern elevators and Lifts",
+      "icon": "flaticon-cogwheel"
+    },
+    {
+      "id": "p3",
+      "heading": "Modern Technology",
+      "title": "Designing of Mordern elevator and escalators.",
+      "icon": "flaticon-factory"
+    }
+  ]
+}
