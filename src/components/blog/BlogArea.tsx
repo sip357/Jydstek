@@ -43,13 +43,13 @@ const BlogArea: React.FC = () => {
                 join us as we explore the dynamic world of elevators
                 and strive to elevate your understanding of this essential industry.
                 </p>
-                <h5>Welcome to the heart of vertical innovation</h5>
+                <h5>Step into the core of pioneering vertical advancements.</h5>
                 <p>
                 Dive into stories of groundbreaking designs, smart technology integrations,
                 and the future of urban mobility. From tips on optimizing elevator performance to insights into the latest safety standards,
                 our blog is packed with valuable information for architects, building managers,
                 and technology enthusiasts alike. Join us on this exciting journey as we elevate not just buildings,
-                 but the very standards of the industry, one story at a time..
+                 but the very standards of the industry, one story at a time.
                 </p>
                 <div className="row">
                   <div className="col-lg-6">
